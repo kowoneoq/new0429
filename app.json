@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/kowoneoq/new0429",
+  "repository": "https://github.com/kowoneoq/new0429",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
